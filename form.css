@@ -1,0 +1,36 @@
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    height: 50vh;
+    width: 50%;
+}
+input{
+    margin: 7%;
+    border-radius: 30px;
+    height: 6vh;
+    width: 100%;
+
+
+}
+h1{
+color:black;
+}
+.btn{
+   
+    height: 6vh;
+    width: 100%;
+   
+}
+button{
+    border-radius: 30px;
+    height: 6vh;
+    width: 100%;
+    background-color: gray;
+    color: aliceblue;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
